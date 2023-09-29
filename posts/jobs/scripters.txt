@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+We are looking for Java programmers to help us in script development. I can only do so much by myself, and I am already doing all the programming work. So if you are interested in joining our team ad a Script Developer, please go to https://rsunderground.xyz/apply.html to fill out an application.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEETFA/9NTK7g8pxtbUOycVrkgRDWQFAmUWOGIACgkQOycVrkgR
+DWR7Uw/8CmQjQ0nO8Wik+o8VBjf5VwzJ8ZMwqgDvxCqAZzcaIb0WK3W6n5h0PC7B
+2cQIlevi4z6yucVSRSF2ed4z+basg8TxtG2gl5ghQGyUxIdfaqMg466pD0DDNArd
+K18UnbMNN3+4j3DQ8y2DqzslW5D6Io0G1xUGkePy8PVl6naHpjcPQ2DgscuhMHAR
+4WLOsWWzfR3yw6yG5tkSPfPaxlV/FttSzz/zztvr3aTPgOBussKIFpmjxw2xSz1N
+pqGIyE7vPT//OiCI60AY0kQJglfUIpkY+HYmfdo253SGssfR9u4HQKWESEPh4jLv
+Z7W+bSPx9tJ/vfmboe463Je9YWX/wQokRBTmLYaGFzXqZExhFR30Trz7YeDwctex
+6psXGiLvLgZaCry3xZ63K84HJfF9MndScqtnsZkV+o5s44HXtomTaCTSZQExikEy
+AvzZ9LGqjVHiE6sRedEHO3WigDoqw+2h+bLQMUWhpTWg3497ZCLSOrgATbHpMOS6
+e9Re3+t1lbkF1wVluEBftaWswttSTS8mXnCSHdesedIOa4VnoR4D9AQmID9lRKaQ
+g1MYjO76X8x3P5iyuU11cp5wKT9TUNhOeOM6gNr3bVkvM48vGG6YvBSza2HQg1hN
+MLRTjQOMPDowoolo/tM30dELNPsr9Po6NfqtfiPr10Yqc91sxSA=
+=dbh5
+-----END PGP SIGNATURE-----

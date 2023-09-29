@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Hey everyone, it's me BelethDev. As I'm sure you've seen, I pretty much set up all of this website. And if you haven't figured out I take care of pretty much all the technical shit (web development, scripting, proxy servers, vpn servers, xmpp server, etc.) with the exception of Vanguard, who is hosting everything while I wait on my own server rack to come in.
+This is why you pretty much see me trying to recruit Java and Web Developers more than I care about account trainers, as account trainers will be replaced once we get the account building script finished. I love to code but fuck it would be nice to have some help lol.
+
+See you guys later :)
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEETFA/9NTK7g8pxtbUOycVrkgRDWQFAmUWOXcACgkQOycVrkgR
+DWTNyg/7B2TPvdmMw7BlpMCRMrVA6omQuDA3VmfUMdrIqADGBnKgOy/RwoS4nPC8
+SfNb8rQQndAcFSiC/fUzSas+bTaZ4Yt/QegCxnphbq8sL0fKOAJ4iYXcAdHnNP5G
+a1qgx3IKjme5vLMmeVkNlR6P5hmiIu0kZlWcNVurbaURG6wtMuG1OlyyiMwktEox
+PukkN8TRhk0C0sxrW+c5gmkPdmA9x04amjgfKT5uIZvfRg/1IMQyQ9V4EvAQJ2Ov
+CR1TmKH94QImXSzNFgik7KZaWJe6OkB0y1pu+6qlzQLa86LXvfSHeUYgyQ0jnNZ4
+JTJkwvFqf/KuY/OYWlAoTc83m0W0ERzWkii5eSs1JkeuqCuVhy03jDKE3wgqv6tb
+R843GTC4fI9cpkFMKUNWWGptT9M7LWVPCi+1fj9griJgffH5E9Br6lcoABrk6fbi
+itnNHnopETiFKI/c2V8IQOX2Oa+d7zGZc19YOh0/TNoG1sbAGSh9m8YYu86Nm7Bt
+QVH8lPJ10YdfDete2US3u+py+t4op51//5ijA6IBzA847NRiAv3qvHkmuluhZSKd
+eD4LdYZdowvUmpo4XF1bWXsIogZg+bsc6MEXr7ZQhVMx3PW9fGTOz5U9otDPK5Re
+7Q7KgsOkADJgGNxxc0nYaBhem1YNmYOQLrbcD8eVGR/sdO6xMjc=
+=2dFM
+-----END PGP SIGNATURE-----

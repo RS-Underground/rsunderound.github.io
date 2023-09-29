@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+If you are interested in contacting me directly, you can do so at the following email:
+belethdev@protonmail.com
+
+Please use the provided public pgp key to encrypt the email. If you don't know how to do so, just look it up on youtube.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEETFA/9NTK7g8pxtbUOycVrkgRDWQFAmUWMtwACgkQOycVrkgR
+DWS59xAAzJslhs5YqoGpRzvaBsdTj5COKMmOM9DvQLL0z+UdCl2HVa1P1IVzTD7z
+8GECDwPF/NCbjHkRiqhgVebH/UoTlHSSv7SCmFOvHDNIDMRqSwGZyiLstBvYo7lm
+em7wuH252ROS1vqLytMrJ99tnvc2q32b164/p0xNc/NsbHiXKkSvLAdvv302xNzI
+FC5dtCjf+w/zxCUdfTeLtEhwr9U+dWPT2Mc6BwewSFhP+V34HYmdZfXIJcM3xfUK
+xaqTlq00di/2DV8sP5sjAbgsmeKU7UL0OpM2B+QzMtuuIzp6Sjd5YvGni4ND1SeF
++yWfCPLA3CtgnvOzbtyPQWS6Yj1kjkfJ3FnWILgRzsh5Fg2J2ceymufuzAY7Fuwp
+hwAvU7QHSEgiRZ9LM0GQSgWIrvzVlTZuLLFmpuV/mTdWJ9yDeMT2nQN4aXNZeex6
+AkpiRFNu9/gOHmA3k/2Fs7qT9O1j+ovjeSbkAOZyk9IRN8XkWzdwqJ7jJE3x0Bhx
+/Sq47sMxBr7Ep8l1cUzsLGC/tAtj79Yc6MXzneyJnLYieowbN05RzATv30cI+bVp
+nQm9v0+WxPSmitCGXT58fd1Fphz6TjYXfssInMMe1enupcB92NPRyYy7JPE1hG4u
+kpI0Vd8gVCPFsOp+QxvFLthStIFFrlCaFaKi434DFn8kR+zCEXc=
+=yFaF
+-----END PGP SIGNATURE-----

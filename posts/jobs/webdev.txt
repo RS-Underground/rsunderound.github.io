@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+We are looking for web developers to help us in our phishing campaigns. If this sounds like something you would be interested in, please go to https://rsunderground.xyz/apply.html to fill out an application.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEETFA/9NTK7g8pxtbUOycVrkgRDWQFAmUWOKcACgkQOycVrkgR
+DWRZvg/+L6E5neTYbGM8bQQPFhKnAFKB51VmZrzmIm88c7QYgzi+wWeyxR3PBdOL
+ZsRhJO7x0jG/VO5eUUSSaJtM2IWmOmgre6dZUgHFWftx9JpOKMPS5bayhbL1EDwp
+UCRNnH6hGIXrR9j4maezBGJ1R/tp6mXuVBdo85Z/L2PXekZLc0oKF7n9jyhZ/5fC
+6CSqVp9eI77mRvk0XHnNnaTMR8wCrlhU4vB8ofabX5lpuO6Erkjf/463KXCnuZSQ
+2RfUGUzQun78W8sE3FWzdIJpEDiPNJVH79gzyQJCetE8foPCQ7CQ+YVUwGIE5qK1
+B/gj/g+Surv9WcqayO4Sksyn65svlZcAf3CxdamSKnBR8IfgsF7khQpT81QEdpPM
+ti5g1VqEnL1TrpGF5GWxmXqqheEpn/wHU6FSbTRH0BciWKOiTLgk4G6oXu4RZECz
+m/q8BBR7gdRYl0bOFcoDAb4/9yDRfpYfBiek9Kq0taXGJUntq3Mz3lQEwUXxjdxn
+eoEEomTGHv/peSExIECZTtyjzAI7u7BtOS6t8rzroJ931bihkdPVBYKpTt6aS7lw
+G+YlxcodJ3gGEVnbXafds/1czIkpl9lAe8hAqFfEC6hKg10Rhvz0fI0XSTifZ9zP
+lgcTQsgQkbTkeg/ti6pGtcf3YQVbBcHELYZxF9CmOdE3m7PRf4M=
+=EEeS
+-----END PGP SIGNATURE-----
